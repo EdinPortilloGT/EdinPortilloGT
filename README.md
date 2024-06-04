@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @EdinPortilloGT
+- 👀 I’m interested in cybersecurity, software development, and AI technologies.
+- 🌱 I’m currently learning advanced penetration testing techniques and machine learning algorithms.
+- 💞️ I’m looking to collaborate on open-source security tools and innovative AI projects.
+- 📫 How to reach me: edinportillo@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/edin-gilberto-portillo-portillo-09157111b).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of video games and love collecting Perfumes!
